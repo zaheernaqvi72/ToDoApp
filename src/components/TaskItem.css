@@ -1,0 +1,19 @@
+.TaskItemContainer {
+  border: 1px solid #ccc; 
+  border-radius: 8px; 
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.TaskItemText {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.TaskItemButtons {
+  display: flex;
+  align-items: center;
+}

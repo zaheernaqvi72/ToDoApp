@@ -1,0 +1,11 @@
+ .TaskPopup .MuiDialog-paper {
+    padding: 20px;
+  }
+  
+  .TaskPopup .MuiTextField-root {
+    margin-bottom: 15px;
+  }
+  
+  .TaskPopup .MuiDialogActions-root {
+    justify-content: flex-end;
+  }

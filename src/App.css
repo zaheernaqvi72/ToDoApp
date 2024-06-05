@@ -1,0 +1,17 @@
+.App {
+    padding: 20px;
+  }
+  
+  .App h2 {
+    width: 400px;
+    font-size: 40px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 40px;
+  }
+  .App h2:hover {
+    box-shadow: 0.5px 0.5px black;
+    
+  }
+  
